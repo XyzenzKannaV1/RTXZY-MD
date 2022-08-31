@@ -3,34 +3,34 @@
 //Dalam file _menunya.js
 
 //『 Utama 』 //
-global.owner = ['14708122938']  // isi jika perlu
-global.mods = ['14708122938']   // isi jika perlu
-global.prems = ['14708122938']  // isi jika perlu
+global.owner = ['6283866366437']  // isi jika perlu
+global.mods = ['6283866366437']   // isi jika perlu
+global.prems = ['6283866366437']  // isi jika perlu
 
 //Isi dengan nama dan nomor lu//
-global.nameowner = '⫹⫺ OWNER' // isi nama kalian bebas
-global.numberowner = '14708122938' // isi nomor kalian dengan awalan seperti di contoh 
-global.instagram = 'https://instagram.com/syidaa1_' // isi Instagram kalian harus link
-global.github = 'https://github.com/hmzzfz' // gausah di isi juga gpp bro
-global.dana = '085890531178' // isi dengan nomor dana yg kamu punya 
-global.pulsa = '085890531178' // isi dengan nomor pulsa hp kalian
-global.gopay = '085890531178'
+global.nameowner = 'Kanna Chan' // isi nama kalian bebas
+global.numberowner = '6283866366437' // isi nomor kalian dengan awalan seperti di contoh 
+global.instagram = 'https://instagram.com/kannabot' // isi Instagram kalian harus link
+global.github = 'https://github.com/XyzenzKannaV1' // gausah di isi juga gpp bro
+global.dana = '083866366437' // isi dengan nomor dana yg kamu punya 
+global.pulsa = '088980870067' // isi dengan nomor pulsa hp kalian
+global.gopay = '083112831554'
 
 //Name Bot & Grouplink//
-global.namebot = 'Hamz botz'
-global.gc = 'https://chat.whatsapp.com/L5X4iarh2CyBrFTMYxfD3o'
-global.web = 'https://youtube.com/c/HamzXPRESET' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
-global.price1 = '1 bulan = 10.000\n2 Minggu 7.000\n1 Minggu 5.000'
+global.namebot = 'Siesta Botz'
+global.gc = 'https://chat.whatsapp.com/KNuPWvGn3AG0srT3vdr0Ea'
+global.web = 'https://youtube.com/c/Siesta Botz' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
+global.price1 = 'Permanent = 5.000\n1 Minggu 3.000\n1 Hari 2.000'
 
 //Tanpilan wm Bot ( Sebagian Tidak di fungsi kan)//
 global.fotonya1 = 'https://botcahx-rest-api.herokuapp.com/api/textpro/marvel-studios?text=List%20&text2=Menu' 
 global.fotonya2 = 'https://botcahx-rest-api.herokuapp.com/api/textpro/marvel-studios?text=List%20&text2=Menu' 
 global.lolkey = 'rey2k22' //biar mudah ngegantinya semisal apikeynya expired:v
 global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
-global.wm = '© HAMZ BOTZ'
+global.wm = '© Siesta Botz'
 global.watermark = wm
-global.wm2 = '⫹⫺ HAMZ BOTZ'
-global.wm3 = '© HAMZ BOTZ'
+global.wm2 = '⫹⫺ Siesta Botz'
+global.wm3 = '© Siesta Botz'
 global.wm4 = '© 2022/2023'
 global.htki = '––––––『' 
 global.htka = '』––––––'
