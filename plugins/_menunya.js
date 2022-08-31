@@ -79,7 +79,7 @@ const defaultMenu = {
   after: `
 ──···────────────────···──
 
-Base Script : *BOTCAHX*
+Base Script : *Kanna Botz*
 Recode Script : *Private*
 
 ⫹⫺ All Team 
